@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pencil Wiki\n"
+"POT-Creation-Date: 2013-02-03 14:48+0100\n"
+"PO-Revision-Date: 2013-02-03 14:48+0100\n"
+"Last-Translator: G.Breant <dev@pellicule.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../pencil-wiki.php:114
+msgid "Add New Wiki Page"
+msgstr ""
+
+#: ../pencil-wiki.php:115
+msgid "Edit Wiki Page"
+msgstr ""
+
+#: ../pencil-wiki.php:116
+msgid "New Wiki Page"
+msgstr ""
+
+#: ../pencil-wiki.php:117
+msgid "View Wiki Page"
+msgstr ""
+
+#: ../pencil-wiki.php:118
+msgid "Search Wiki Pages"
+msgstr ""
+
+#: ../pencil-wiki.php:119
+msgid "No wiki pages found"
+msgstr ""
+
+#: ../pencil-wiki.php:120
+msgid "No wiki pages found in Trash"
+msgstr ""
+
+#: ../pencil-wiki.php:173
+msgid "Pencil Wiki"
+msgstr ""
+
+#: ../pencil-wiki.php:215
+msgid "Wiki Author"
+msgstr ""
+
+#: ../pencil-wiki.php:292
+msgid "Pencil Wiki is almost ready."
+msgstr ""
+
+#: ../pencil-wiki.php:292
+#, php-format
+msgid ""
+"You need to copy the files from <em>%1s</em> to your current theme directory "
+"(<em>%2s</em>)."
+msgstr ""
+
+#: ../pencil-wiki.php:327
+msgid "You cannot change the post parent of a top-level wiki page"
+msgstr ""
+
+#: ../pencil-wiki.php:328
+msgid "You have not the capability to set top-level wiki page."
+msgstr ""
+
+#: ../pencil-wiki.php:329
+msgid "Please set a page parent.  Page has not been published."
+msgstr ""
+
+#: ../pencil-wiki.php:446
+msgid "Parent Locked"
+msgstr ""
+
+#: ../pencil-wiki.php:448
+msgid "Post Locked"
+msgstr ""
+
+#: ../pencil-wiki.php:510
+msgid "Locking"
+msgstr ""
+
+#: ../pencil-wiki.php:513
+msgid "Lock this page"
+msgstr ""
+
+#: ../pencil-wiki.php:518
+msgid "Lock page & children"
+msgstr ""
+
+#: ../pencil-wiki.php:712 ../_inc/theme-default/single-wiki_page-tree.php:11
+#, php-format
+msgid "%s Index"
+msgstr ""
+
+#: ../pencil-wiki.php:713
+#, php-format
+msgid "This page is empty but has %1d subpages.  Check the %2s !"
+msgstr ""
+
+#: ../pencil-wiki.php:715
+msgid "This page is empty."
+msgstr ""
+
+#: ../pwiki-revisions.php:10
+msgid "Revision"
+msgstr ""
+
+#: ../pwiki-revisions.php:11
+msgid "Reason for editing"
+msgstr ""
+
+#: ../pwiki-revisions.php:161
+msgid "Revisions"
+msgstr ""
+
+#: ../pwiki-revisions.php:265
+#, php-format
+msgid "edited by %1s because : \"%s2\""
+msgstr ""
+
+#: ../pwiki-template.php:76
+msgid "All Wikis"
+msgstr ""
+
+#: ../pwiki-template.php:82
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: ../pwiki-template.php:86
+msgid "Search for:"
+msgstr ""
+
+#: ../pwiki-widgets.php:11
+msgid "A search form for wiki pages"
+msgstr ""
+
+#: ../pwiki-widgets.php:12
+msgid "(Pencil Wiki) Search"
+msgstr ""
+
+#: ../pwiki-widgets.php:37 ../pwiki-widgets.php:144 ../pwiki-widgets.php:229
+#: ../pwiki-widgets.php:326
+msgid "Title:"
+msgstr ""
+
+#: ../pwiki-widgets.php:47
+msgid "(All Wikis)"
+msgstr ""
+
+#: ../pwiki-widgets.php:58
+msgid "Limit to:"
+msgstr ""
+
+#: ../pwiki-widgets.php:103
+msgid "Add Wiki Page"
+msgstr ""
+
+#: ../pwiki-widgets.php:108
+msgid "Add page link for the wiki"
+msgstr ""
+
+#: ../pwiki-widgets.php:109
+msgid "(Pencil Wiki) Add Page Link"
+msgstr ""
+
+#: ../pwiki-widgets.php:147 ../pwiki-widgets.php:232
+msgid "Link Text:"
+msgstr ""
+
+#: ../pwiki-widgets.php:150 ../pwiki-widgets.php:235
+msgid "Capability check ?"
+msgstr ""
+
+#: ../pwiki-widgets.php:187
+msgid "Edit New Wiki Page"
+msgstr ""
+
+#: ../pwiki-widgets.php:192
+msgid "Edit page link for the wiki"
+msgstr ""
+
+#: ../pwiki-widgets.php:193
+msgid "(Pencil Wiki) Edit Page Link"
+msgstr ""
+
+#: ../pwiki-widgets.php:284
+msgid "List the pages of your wiki"
+msgstr ""
+
+#: ../pwiki-widgets.php:285
+msgid "(Pencil Wiki) List pages"
+msgstr ""
+
+#: ../pwiki-widgets.php:330
+msgid "Arguments:"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page-tree.php:2
+msgid "Wiki Menu"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page-tree.php:13
+msgid "Wikis Index"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page-tree.php:37
+msgid "Edit This Page"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page-tree.php:40
+msgid "Add Page"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page-tree.php:46
+msgid "Search Wiki"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page-tree.php:48
+msgid "Search Wikis"
+msgstr ""
+
+#: ../_inc/theme-default/single-wiki_page.php:21
+msgid "Post navigation"
+msgstr ""

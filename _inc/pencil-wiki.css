@@ -1,0 +1,60 @@
+/*NAV MENU*/
+
+#pwiki-navigation{
+    border-bottom: 1px solid #EDEDED;
+    margin-bottom: 0.5em;
+    margin-top: 0;
+    text-align: inherit;
+}
+
+#pwiki-navigation .pwiki-menu input#s{
+    width:100px;
+}
+
+#pwiki-navigation .pwiki-menu-search #searchform{
+    display:none;
+}
+    #pwiki-navigation .pwiki-menu-search:hover #searchform{
+        display:inherit;
+    }
+    #pwiki-navigation .pwiki-menu-search:hover a{
+        display:none;
+    }
+
+a#pwiki-index-label{
+
+}
+
+    
+a.pwiki-locked{
+    background-image:url(images/lock.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left : 20px;
+    text-decoration:line-through;
+}
+a.pwiki-locked.pwiki-branchlocked{
+    background-image:url(images/lock-grey.png);
+}
+
+.pwiki_message{
+    background: #fffbcc;
+    border: 1px solid #e6db55;
+    text-align: center;
+    padding: 10px 0;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+/*MENU TREE*/
+
+#pwiki-navigation a.pwiki-menu-ancestor,#pwiki-navigation a.pwiki-menu-current{
+    text-decoration:underline;
+}
+
+/*WIDGET TREE*/
+.pwiki_widget_tree a.pwiki-menu-ancestor,.pwiki_widget_tree a.pwiki-menu-current{
+    font-style:italic;
+}
